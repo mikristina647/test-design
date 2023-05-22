@@ -11,7 +11,7 @@
 
 Для любого раздела требований для [foodbuzz](https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html)      составить баг-репорты на требования (то есть выявить в документации нарушение атрибутов требований).
 
-**Задание 2**   [Решение](https://docs.google.com/spreadsheets/d/1Uk5GnNXsAUP1fpdfV_XRhd2eYwcMCfZf4Nyrzy7pnKw/edit?usp=sharing)
+**Задание 3**   [Решение](https://docs.google.com/spreadsheets/d/1Uk5GnNXsAUP1fpdfV_XRhd2eYwcMCfZf4Nyrzy7pnKw/edit?usp=sharing)
 
 **Классы эквивалентности**
 
