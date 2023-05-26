@@ -23,7 +23,11 @@
 3) Выделить линейные и нелинейные классы эквивалентности по [требованиям](https://docs.google.com/document/d/11-OVqElQad_hde5sQUtWDSmAP5LS_Bm2WinExOLBtCk/edit)
 
 
-**Попарное тестирование** [Решение](https://docs.google.com/spreadsheets/d/16c6VUkj2WUCM4AxASwanDE4gEtg0RNKMmptBHJV9n1A/edit?usp=sharing)
+**Задание 4**   [Решение](https://docs.google.com/spreadsheets/d/16c6VUkj2WUCM4AxASwanDE4gEtg0RNKMmptBHJV9n1A/edit?usp=sharing)
+
+
+
+**Попарное тестирование**
 
 1. Составить попарные наборы данных для [формы оплаты](https://test-stand.gb.ru/seminar_stands/payform/index.html?_ga=2.90688410.10880884.1684733144-132328116.1680087499)
 
